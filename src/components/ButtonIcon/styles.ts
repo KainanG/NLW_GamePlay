@@ -10,6 +10,7 @@ export const styles = StyleSheet.create({
         borderRadius: 8,
         flexDirection: 'row',
         alignItems: 'center',
+
     },
     title: {
         flex: 1,
